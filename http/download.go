@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	fb "github.com/filebrowser/filebrowser"
+	fb "github.com/pallavagarwal07/filebrowser"
 	"github.com/hacdias/fileutils"
 	"github.com/mholt/archiver"
 )

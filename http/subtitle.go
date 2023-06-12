@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 	"regexp"
 
-	fb "github.com/filebrowser/filebrowser"
+	fb "github.com/pallavagarwal07/filebrowser"
 )
 
 func subtitlesHandler(c *fb.Context, w http.ResponseWriter, r *http.Request) (int, error) {

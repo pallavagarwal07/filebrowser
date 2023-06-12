@@ -15,7 +15,7 @@ npm install filebrowser-frontend
 
 ## Usage
 
-This package is not prepared to be used by other projects than [File Browser](https://github.com/filebrowser/filebrowser) itself.
+This package is not prepared to be used by other projects than [File Browser](https://github.com/pallavagarwal07/filebrowser) itself.
 
 ## Contribute
 

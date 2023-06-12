@@ -4,7 +4,7 @@ import (
 	"reflect"
 
 	"github.com/asdine/storm"
-	fm "github.com/filebrowser/filebrowser"
+	fm "github.com/pallavagarwal07/filebrowser"
 )
 
 // UsersStore is a users store.

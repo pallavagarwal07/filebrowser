@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"strings"
 
-	fb "github.com/filebrowser/filebrowser"
+	fb "github.com/pallavagarwal07/filebrowser"
 )
 
 type modifyRequest struct {
